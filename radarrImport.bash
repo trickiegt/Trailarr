@@ -6,4 +6,4 @@ if [ $radarr_movie_id == $null ]; then
   #This way the powershell script will not present an interactive menu
   radarr_movie_id="0"
 fi
-/opt/microsoft/powershell/7/pwsh /home/Trailarr_/Trailers.ps1 $radarr_movie_id #Update to reflect where you saved the scripts or powershell location
+/opt/microsoft/powershell/7/pwsh /home/Trailarr/Trailers.ps1 $radarr_movie_id #Update to reflect where you saved the scripts or powershell location
