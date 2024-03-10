@@ -1,4 +1,4 @@
-<# This Is Configured for Linux ONLY && Relies on yt-dlp
+<# This Is Configured for Linux ONLY && Relies on yt-dlp and Powershell
 # Script can run headless by passing a Radarr movie ID as an argument
 # -- allowing it to run as a custom Radarr Connect (with the help of a bash script -- Radarr does not support Powershell Scripts)
 # Manually running this script provides a few options.
